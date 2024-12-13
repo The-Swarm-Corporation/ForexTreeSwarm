@@ -1,5 +1,5 @@
-swarms
+
 loguru
-python-dotenv
-pyyaml
-swarm-models
+swarms
+aiohttp
+bs4
